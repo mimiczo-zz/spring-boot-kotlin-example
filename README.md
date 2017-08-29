@@ -1,4 +1,6 @@
-# Spring Boot Security(jwt) Example with Kotlin
+# Spring Boot Kotlin Example
+
+spring boot kotlin example project. security, jwt, rest
 
 # How to test
 
